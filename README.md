@@ -7,8 +7,9 @@ it prompts the user to input the directory and the file extension to search for,
 
 1. Ensure the script file (`ext.sh`) is executable: chmod +x ext.sh
 
-# Run the script
-./ext.sh
+# Run the script : ```bash
+
+                   ./ext.sh
 
 # Requirements
 1. Bash shell environment
