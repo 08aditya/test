@@ -5,7 +5,9 @@ it prompts the user to input the directory and the file extension to search for,
 
 ## Usage 
 
-1. Ensure the script file (`ext.sh`) is executable: chmod +x ext.sh
+1. Ensure the script file (`ext.sh`) is executable:```bash
+   
+                                                   chmod +x ext.sh
 
 # Run the script : ```bash
 
